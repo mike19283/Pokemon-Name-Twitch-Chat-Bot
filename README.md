@@ -1,4 +1,4 @@
-# Twitch
+# Pokemon Name Bot
 Pokemon Name Bot
 
 This has been customized for iAteYourPie's use.
