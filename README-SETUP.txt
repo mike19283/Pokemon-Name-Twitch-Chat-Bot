@@ -26,7 +26,7 @@ $$/   $$/  $$$$$$$/ $$/  $$/  $$/  $$$$$$$/       $$$$$$$/   $$$$$$/     $$$$/
 
 This has been customized for iAteYourPie's use.
 
-This is a program that creates a twitch chat bot for you while you use the Universal Pokemon randomizer created by Stewart Marshall. I am in no way affiliated with Mr. Marshall. This app is designed to take a user command from Twitch chat and add the name specified to the randomized pool. If the user starts with an add command, and are mod/vip/have paid enough bits, the custom file the game uses for text is modified. If a command does not go through, a mod can add instead for free. Only moderators can use the remove commands. In the end, the broadcaster has full power and can still edit names manually. This works relatively simply. 
+This is a program that creates a twitch chat bot for you while you use the Universal Pokemon randomizer created by Stewart Marshall. I am in no way affiliated with Mr. Marshall. This app is designed to take a user command from Twitch chat and add the name specified to the randomized pool. If the user starts with an add command, and are mod/vip/have paid enough bits, the custom file the game uses for traiiner names is modified. Only moderators can use the remove commands. In the end, the broadcaster has full power and can still edit names manually. This works relatively simply. 
 
 On boot, you see a small window show up like this https://i.imgur.com/XsnvDJO.png. Click file in the upper left-hand corner, then click load (https://i.imgur.com/3Mn4Heh.png). You are presented with a load dialog menu. For this to work, you need to navigate to your folder containing the universal pokemon randomizer and select this file (https://i.imgur.com/ENWYNd7.png). After selecting once, you never hve to  select again; this program remembers where it was. 
 
@@ -54,3 +54,5 @@ string[] pieCommands = new string[]
 	"!pReset",
 	"!pSave",
 }
+	"!pReset" = Sets all current to 0 and saves total
+	"!pSave" = Save all total
