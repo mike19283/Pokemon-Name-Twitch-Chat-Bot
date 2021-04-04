@@ -42,3 +42,8 @@ The commands for this bot are !pAdd, !pAddDouble, !pRemove and !pRemoveDouble. T
 
 About - !pAbout:
 This app is designed to take a user command from Twitch chat and add the name specified to the randomized pool. If the user starts with an add command, and meet the criteria you specified, the custom file the randomizer uses for trainer names is modified. In the end, the broadcaster has full power and can still edit names manually. Type !pCommands to get all the available commands.
+
+
+***DOWNLOAD***
+https://github.com/mike19283/Pokemon-Trainer-Name-Twitch-Chat-Bot/blob/master/PokemonTrainerNameBot%20BETA%20-%200.106.zip
+To use, unzip and launch the exe.
