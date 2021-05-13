@@ -38,7 +38,7 @@ I am in no way responsible for any damages caused. It is up to you in being resp
 
 
 Commands - !pCommands:
-The commands for this bot are !pAdd, !pAddDouble, !pRemove and !pRemoveDouble and !AddMe. These commands accept strings. For example, !pAdd "abc" would be valid. Each command could take up to 2 strings. 1 vs 2 strings are as follows: !pAdd "(Trainer name)", !pAdd "(Trainer class)" "(Trainer name)". !AddMe adds anyone based on their twitch username. Type !pAbout for more info.
+The commands for this bot are !pAdd, !pAddDouble, !pRemove and !pRemoveDouble and !AddMe. These commands accept strings. For example, !pAdd "abc" would be valid. Each command could take up to 2 strings. 1 vs 2 strings are as follows: !pAdd "(Trainer name)", !pAdd "(Trainer class)" "(Trainer name)". !AddMe adds anyone based on their twitch username. Nanes may be shortened to meet constraints. Type !pAbout for more info.
 
 About - !pAbout:
 This app is designed to take a user command from Twitch chat and add the name specified to the randomized pool. If the user starts with an add command, and meet the criteria you specified, the custom file the randomizer uses for trainer names is modified. In the end, the broadcaster has full power and can still edit names manually. Type !pCommands to get all the available commands.
